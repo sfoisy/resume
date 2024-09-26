@@ -7,3 +7,6 @@
 [Potsdam High School 2020](https://phs.potsdam.k12.ny.us/)  
 [Williams College, BA 2024](https://www.williams.edu/)
 
+## Research Interests
+
+Atmospheric Science, Modern and Future Climate, Atmospheric Chemistry, Atmospheric Systems, Modeling
